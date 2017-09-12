@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# the directory where the files are compiled
+dist
+
